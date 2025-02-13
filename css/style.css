@@ -1,0 +1,118 @@
+body {
+    color: #333333;
+    font-family: "Source Sans 3", serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+
+
+/* header */
+
+a[href^="malito"] {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28.48px;
+    color: #607CE6;
+}
+
+a[href^="tel"] {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28.48px;
+    color: #607CE6;
+    text-decoration: none;
+}
+
+.site-navigation-item a {
+    line-height: 19.2px;
+    text-decoration: none;
+    color: #333333;
+
+}
+
+.site-navigation {
+    list-style: none;
+}
+
+.text-call a {
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #607CE6;
+    text-transform: uppercase;
+}
+
+
+/* main */
+
+.hero h1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 72px;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+}
+
+.products-list {
+    list-style: none;
+}
+
+.products-list h3 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 33.6px;
+}
+
+.products-list a {
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #607CE6;
+
+}
+
+.map h2 {
+    display: none;
+}
+
+.news-list {
+    list-style: none;
+}
+
+.news-list a {
+    line-height: 19.2px;
+    color: #607CE6;
+    text-decoration: none;
+
+}
+
+/* footer */
+
+.main-footer {
+    background-color: #333333;
+
+}
+
+.footer-nav-list,
+.footer-list {
+    list-style: none;
+}
+
+.footer-nav-list a,
+.footer-list a {
+    line-height: 19.2px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-copyright {
+    font-size: 14px;
+    line-height: 16.8px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
